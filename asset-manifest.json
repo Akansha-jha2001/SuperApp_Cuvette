@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SuperApp_Cuvette/static/css/main.467bbbd5.css",
+    "main.js": "/SuperApp_Cuvette/static/js/main.51739be5.js",
+    "static/media/leftbanner.jpg": "/SuperApp_Cuvette/static/media/leftbanner.852c9f0196b7b3b27690.jpg",
+    "index.html": "/SuperApp_Cuvette/index.html",
+    "main.467bbbd5.css.map": "/SuperApp_Cuvette/static/css/main.467bbbd5.css.map",
+    "main.51739be5.js.map": "/SuperApp_Cuvette/static/js/main.51739be5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.467bbbd5.css",
+    "static/js/main.51739be5.js"
+  ]
+}
